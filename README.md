@@ -27,25 +27,24 @@ Check out my [Link to my Notebook](https://github.com/tonyhollaar/kaggle-competi
 ### Key Methodologies
 
 🔍 **Exploratory Data Analysis (EDA):**
-- Analyze ticket class, gender, age, and more.
-- Visualize with histograms, box plots, and more.
-- Handle missing data judiciously.
-- Split data for insightful analysis.
+- Analyzed ticket class, gender, age, and more.
+- Visualized data with histograms, box plots, and more.
+- Handled missing data.
 
 🔧 **Precision-Crafted Feature Engineering:**
-- Segment 'Age' into meaningful groups.
-- Extract insights from 'Title' using regular expressions.
-- Categorize 'Fare' through quantiles.
+- Segmented 'Age' into meaningful groups with binning.
+- Extracted insights from 'Title' using regular expressions (RegEx).
+- Categorized 'Fare' through quantiles.
 
 📊 **Insightful Data Visualization:**
-- Visualize survival correlations.
-- Use stacked bar charts for category insights.
+- Visualized survival correlations.
+- Used stacked bar charts for category insights.
 
 🛠️ **Strategic Feature Augmentation:**
-- Introduce 'Age_missing' and 'Fare_0' attributes.
-- Enhance predictive power with engineered features.
+- Introduced 'Age_missing' and 'Fare_0' attributes.
+- Enhanced predictive power with engineered features.
 
 🌌 **Venturing into Deep Learning:**
-- Explore deep learning techniques.
-- Architect Sequential model with Dense and Dropout layers.
-- Decode accuracy and loss trends through epochs.
+- Utilized deep learning technique.
+- Sequential model with Dense and Dropout layers.
+- Reviewed accuracy and loss trends through epochs.
